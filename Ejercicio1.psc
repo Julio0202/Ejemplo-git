@@ -1,3 +1,4 @@
 Hola Juan Fran
 Hola Juan Fran
-Adiós JUan Fran
+Adiós Juan Fran
+El fin de semana llega 
